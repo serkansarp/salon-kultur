@@ -1,2 +1,8 @@
-# salon-kultur
-Salon Kültür is a fictional entertainment app made of absurd jokes inspired by conversations in traditional Turkish coffeehouses (kıraathane).
+# Salon Kültür
+![image](images/logo.png)
+
+**EN:** Salon Kültür is a fictional entertainment app made of absurd jokes inspired by conversations in traditional Turkish coffeehouses (kıraathane). The sayings here do not reflect reality, do not target or mock coffeehouse regulars or any person, group or community, and are not intended to ridicule anyone. Nothing said here, especially regarding health, the stock market and crypto, constitutes advice of any kind. The app does not encourage betting or gambling. You can access the app via the [Salon Kültür](https://serkansarp.github.io/salon-kultur/) link. You can pick from the categories or use the "Rastgele" (Random) button for a random pick. When opened on a smartphone with the Chrome browser, you can also use it as a web app through options such as "Install", "Install as app" or "Add to home screen". Simply adding the link to your home screen is enough too, as the icons are already included in the app. It does not work offline.
+
+**TR:** Salon Kültür, kıraathane sohbetlerinden ilham alan absürt esprilerle hazırlanmış kurgusal bir eğlence uygulamasıdır. Buradaki sözler gerçeği yansıtmaz, kıraathane müdavimlerini ya da herhangi bir kişi, grup veya kesimi hedef almaz, kimseyle alay etmeyi amaçlamaz. Sağlık, borsa ve kripto başta olmak üzere hiçbir konudaki söz tavsiye niteliği taşımaz. Uygulama; iddia, bahis ve kumara özendirme amacı taşımaz. Uygulamaya [Salon Kültür](https://serkansarp.github.io/salon-kultur/) linki üzerinden ulaşabilirsiniz. Kategoriler arasından veya "Rastgele" butonuyla rastgele seçim yapabilirsiniz. Akıllı telefonlar üzerinden açıldığında Chrome tarayıcısı ile "Yükle", "Uygulama olarak yükle", "Uygulama linki ekle", "Anasayfaya ekle gibi seçeneklerle web uygulaması olarak da kullanabilirsiniz. Sadece ekranınıza link eklemeniz de yeterli olur, iconları uygulama içerisinde mevcuttur. Offline çalışmaz.
+
+<sub>Built with AI assistance. / Yapay zeka desteğiyle geliştirilmiştir.</sub>
